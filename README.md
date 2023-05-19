@@ -3,6 +3,9 @@
 Introduction: 
 This is an ESP32S3 full band radio project suitable for beginners to reproduce. Using the ESP32S3-N16R8 module as the main control MCU, SI4735 as the radio control module, and TC8002D for audio output.
 - Open source protocol: CERN Open Hardware License
+![image](https://github.com/LuBiBi98/all-band-radio-receiver-mini/assets/116412764/c26a4dfe-0417-4baa-99a1-67770dedd85b)
+
+
 
 Project Description
 - This project is aimed at Arduino developers, radio experimenters, hobbyists and anyone interested in building an all-band (including AM, FM, SSB)radio receiver based on the SI4735. The frequency range of AM and SSB modes is 150kHz to 30MHz, while FM mode is 64 to 108MHz.
@@ -53,5 +56,6 @@ Housing Design
 
 The housing mainly consists of four parts: front panel, front shell, back shell, and back panel.
 The front panel is made of PET, with adhesive on the back for easy adhesion, and the back panel is made of fully transparent acrylic. The front and back shells are 3D printed with resin  and the front shell is painted with Pantone color code 1795C.
+![image](https://github.com/LuBiBi98/all-band-radio-receiver-mini/assets/116412764/5b76afe9-5a66-4cdd-be26-e636877fdf8b)
 
 Introduction to housing installation: https://youtu.be/IU4aah9qmFE
