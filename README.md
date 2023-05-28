@@ -59,3 +59,13 @@ The front panel is made of PET, with adhesive on the back for easy adhesion, and
 ![image](https://github.com/LuBiBi98/all-band-radio-receiver-mini/assets/116412764/5b76afe9-5a66-4cdd-be26-e636877fdf8b)
 
 Introduction to housing installation: https://youtu.be/IU4aah9qmFE
+
+
+
+The front panel is made of PET, with adhesive on the back for easy adhesion, and the back panel is made of fully transparent acrylic. The front and back shells are 3D printed with resin  and the front shell is painted with Pantone color code 1795C.
+
+
+
+20230528 Update
+Air band PCB - Gerber_EB_PCB_V2_2023-05-28.gerber
+Schematic Diagram - SCH_EB_SCH_V2_2023-05-28.pdf
