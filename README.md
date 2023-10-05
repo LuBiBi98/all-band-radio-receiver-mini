@@ -69,3 +69,7 @@ The front panel is made of PET, with adhesive on the back for easy adhesion, and
 20230528 Update
 Air band PCB - Gerber_EB_PCB_V2_2023-05-28.gerber
 Schematic Diagram - SCH_EB_SCH_V2_2023-05-28.pdf
+
+202301006 Update
+Upload our new Software Firmware for this radio - FW_ESP32S3_Radio_v231004.bin
+You might need a flash download tool published by 乐鑫科技(Espressif Systems) -- the manufactor of the radio's MCU chip, to install the fireware. The tool is all uploaded. - flash_download_tool_3.9.2_0.rar
