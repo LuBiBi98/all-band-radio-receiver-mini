@@ -72,4 +72,4 @@ Schematic Diagram - SCH_EB_SCH_V2_2023-05-28.pdf
 
 202301006 Update
 Upload our new Software Firmware for this radio - FW_ESP32S3_Radio_v231004.bin
-You might need a flash download tool published by 乐鑫科技(Espressif Systems) -- the manufactor of the radio's MCU chip, to install the fireware. The tool is all uploaded. - flash_download_tool_3.9.2_0.rar
+You might need a flash download tool published by 乐鑫科技(Espressif Systems) -- the manufactor of the radio's MCU chip, to install the fireware. The tool is all uploaded. Download the tool: https://www.espressif.com/en/support/download/other-tools;
